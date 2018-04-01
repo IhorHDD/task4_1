@@ -1,0 +1,16 @@
+---Hardware---
+CPU: 	: Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz
+RAM: :        2041568 kB
+	Motherboard: : innotek GmbH
+System Serial Number: 0
+---System---
+OS Distribution: "Ubuntu 16.04.3 LTS"
+Kernel version: 4.13.0-36-generic
+Installation date: :       Thu Feb 15 10:23:37 2018
+Hostname: ihor-VirtualBox
+Uptime:  3 weeks, 5 days, 11 hours, 11 minutes
+Processes running: 193
+Loged in users: 1
+---Network---
+          inet addr:10.0.2.15  Bcast:10.0.2.255  Mask:255.255.255.0
+          inet addr:127.0.0.1  Mask:255.0.0.0
